@@ -1,0 +1,107 @@
+body{
+    font-family: Poppins;
+    font-weight: 500;
+}
+.hero-section{
+    padding: 50px 0;
+}
+.hero-section .carousel-item{
+    background-color: #FEEAE9;
+    padding: 50px;
+    border-radius: 10px;
+}
+.hero-section .carousel-item h1{
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+.hero-section .carousel-item h2{
+    font-size: 38px;
+    font-weight: 600;
+    color: #ff136f;
+}
+body .buy-now{
+    background-color: #ff136f;
+    color: #ffffff;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 6px;
+    margin-top: 20px;
+}
+.category-section{
+    padding: 50px 0;
+}
+.category-section h2{
+    font-weight: bold;
+    font-size: 34px;
+    color: #ffffff;
+}
+.category-section .watch{
+    background-image: linear-gradient(90deg, #ED932C, #F5C819);
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+.category-section .bag{
+    background-image: linear-gradient(90deg, #EC4286, #E91C68);
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+.category-section .shoes{
+    background-image: linear-gradient(90deg, #4376FD, #393AF9);
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+.shoes-section,
+.backpack-section{
+    padding: 50px 0;
+}
+.shoes-section .card,
+.backpack-section .card{
+    border: none;
+    box-shadow: 15px 10px 10px 0px #88888838;
+}
+.shoes-section h2,
+.backpack-section h2{
+    padding: 50px 0;
+    font-weight: bold;
+    font-size: 38px;
+}
+.shoes-section .card h5,
+.backpack-section .card h5{
+    font-weight: 600;
+    font-size: 22px;
+    margin: 1rem 0;
+}
+.backpack-section .buy-now{
+    margin-top: 0;
+}
+.cta-section{
+    padding: 50px 0;
+}
+.cta-section .row{
+    background-color: #FEEAE9;
+    padding: 50px 0;
+    border-radius: 10px;
+}
+.cta-section .row input{
+    padding: 8px 5px;
+}
+.cta-section .row h2{
+    font-weight: bold;
+    font-size: 38px;
+}
+.cta-section .submit{
+    background-color: #ff136f;
+    color: #ffffff;
+    padding: 8px 25px;
+    border: none;
+    border-radius: 6px;
+    margin-left: 10px;
+}
+.footer-section h4{
+    font-size: 18px;
+    text-align: center;
+}
+.footer-section{
+    padding: 50px 0;
+}
